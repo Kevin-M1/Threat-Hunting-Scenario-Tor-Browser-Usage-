@@ -90,5 +90,9 @@ DeviceFileEvents
 - **None**
 
 ---
+## Revision History:
+| **Version** | **Changes**                   | **Date**         | **Modified By**   |
+|-------------|-------------------------------|------------------|-------------------|
+| 1.0         | Initial draft                  | `March 30, 2024`  | `Kevin Mejia` 
 
   
