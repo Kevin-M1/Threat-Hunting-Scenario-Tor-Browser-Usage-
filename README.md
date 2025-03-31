@@ -122,52 +122,52 @@ Query used to locate events
 
 ### 1. File Download - TOR Installer
 
-Timestamp: 2025-03-30T09:38:05Z
-Event: The user "kevin0715" downloaded or renamed a file named tor-browser-windows-x86_64-portable-14.0.8.exe to the Downloads folder.
-Action: File download detected.
-File Path: C:\Users\kevin0715\Downloads\tor-browser-windows-x86_64-portable-14.0.8.exe
+-Timestamp: 2025-03-30T09:38:05Z
+-Event: The user "kevin0715" downloaded or renamed a file named tor-browser-windows----x86_64-portable-14.0.8.exe to the Downloads folder.
+-Action: File download detected.
+-File Path: C:\Users\kevin0715\Downloads\tor-browser-windows-x86_64-portable-14.0.8.exe
 
 
 ### 2. Process Execution - TOR Browser Installation
-Timestamp: 2025-03-30T09:44:49Z
-Event: The user "kevin0715" executed the file tor-browser-windows-x86_64-portable-14.0.8.exe in silent mode, initiating a background installation of the TOR Browser.
-Action: Process creation detected.
-Command: tor-browser-windows-x86_64-portable-14.0.8.exe /S
-File Path: C:\Users\kevin0715\Downloads\tor-browser-windows-x86_64-portable-14.0.8.exe
+-Timestamp: 2025-03-30T09:44:49Z
+-Event: The user "kevin0715" executed the file tor-browser-windows-x86_64-portable-14.0.8.exe in silent mode, initiating a background installation of the TOR Browser.
+-Action: Process creation detected.
+-Command: tor-browser-windows-x86_64-portable-14.0.8.exe /S
+-File Path: C:\Users\kevin0715\Downloads\tor-browser-windows-x86_64-portable-14.0.8.exe
 
 
 
 
 ### 3. Process Execution - TOR Browser Launch
 
-Timestamp: 2025-03-30T09:58:41Z
-Event: User "kevin0715" opened the TOR browser. Subsequent processes associated with TOR browser, such as firefox.exe and tor.exe, were also created, indicating that the browser launched successfully.
-Action: Process creation of TOR browser-related executables detected.
-File Path: C:\Users\kevin0715\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe
+-Timestamp: 2025-03-30T09:58:41Z
+-Event: User "kevin0715" opened the TOR browser. Subsequent processes associated with TOR browser, such as firefox.exe and tor.exe, were also created, indicating that the browser launched successfully.
+-Action: Process creation of TOR browser-related executables detected.
+-File Path: C:\Users\kevin0715\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe
 
 
 ### 4. Network Connection - TOR Network
 
-Timestamp: 2025-03-30T10:00:59Z
-Event: A network connection to IP 104.152.111.1 on port 443 by user "kevin0715" was established using tor.exe, confirming TOR browser network activity.
-Action: Connection success.
-Process: tor.exe
-File Path: C:\Users\kevin0715\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe
+-Timestamp: 2025-03-30T10:00:59Z
+-Event: A network connection to IP 104.152.111.1 on port 443 by user "kevin0715" was established using tor.exe, confirming TOR browser network activity.
+-Action: Connection success.
+-Process: tor.exe
+-File Path: C:\Users\kevin0715\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe
 
 
 ### 5. Additional Network Connections - TOR Browser Activity
-Timestamps:
-2025-03-30T10:01:13Z - Local connection to 127.0.0.1 on port 9150.
-Event: Additional TOR network connections were established, indicating ongoing activity by user "kevin0715" through the TOR browser.
-Action: Multiple successful connections detected.
+-Timestamps:
+-2025-03-30T10:01:13Z - Local connection to 127.0.0.1 on port 9150.
+-Event: Additional TOR network connections were established, indicating ongoing activity by user "kevin0715" through the TOR browser.
+-Action: Multiple successful connections detected.
 
 
 ### 6. File Creation - TOR Shopping List
 
-Timestamp: 2025-03-30T10:27:19Z
-Event: The user "kevin0715" created a file named tor-shopping-list.txt on the desktop, potentially indicating a list or notes related to their TOR browser activities.
-Action: File creation detected.
-File Path: C:\Users\kevin0715\Desktop\tor-shopping-list.txt
+-Timestamp: 2025-03-30T10:27:19Z
+-Event: The user "kevin0715" created a file named tor-shopping-list.txt on the desktop, potentially indicating a list or notes related to their TOR browser activities.
+-Action: File creation detected.
+-File Path: C:\Users\kevin0715\Desktop\tor-shopping-list.txt
 
 
 ---
