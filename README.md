@@ -130,9 +130,13 @@ Query used to locate events
 
 ### 2. Process Execution - TOR Browser Installation
 -Timestamp: 2025-03-30T09:44:49Z
+
 -Event: The user "kevin0715" executed the file tor-browser-windows-x86_64-portable-14.0.8.exe in silent mode, initiating a background installation of the TOR Browser.
+
 -Action: Process creation detected.
+
 -Command: tor-browser-windows-x86_64-portable-14.0.8.exe /S
+
 -File Path: C:\Users\kevin0715\Downloads\tor-browser-windows-x86_64-portable-14.0.8.exe
 
 
